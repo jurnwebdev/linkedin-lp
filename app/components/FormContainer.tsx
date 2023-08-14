@@ -6,7 +6,7 @@ import appleLogo from '../../public/apple-logo.png'
 export default function FormContainer() {
     return (
         <main className='h-[80vh] flex flex-col justify-center items-center'>
-            <div className='w-[400px] h-auto p-8 rounded-lg border-[1px] border-gray-300 shadow-lg flex flex-col'>
+            <div className='w-[400px] h-auto p-8 rounded-lg border-[1px] border-gray-400 shadow-lg flex flex-col'>
                 <h2 className="text-3xl font-bold">Sign in</h2>
                 <p className='text-[14px]'> Stay updated on your professional world</p>
 
